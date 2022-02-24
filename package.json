@@ -24,7 +24,7 @@
     "react-ga": "^3.3.0",
     "react-text-loop-next": "^0.0.3",
     "resolve-url-loader": "^4.0.0",
-    "sass": "^1.48.0"
+    "sass": "1.49.9"
   },
   "devDependencies": {
     "eslint": "8.4.0",
